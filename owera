@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T21:23:25.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="oPpS2fQuN5nag4dlhCxy" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T21:27:16.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="vY1zIqQzgeM-MIG8y9Vj" version="12.8.5" type="github">
   <diagram id="77EFI7Z8axzgrNOQ7Orh" name="Page-1">
     <mxGraphModel dx="1888" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,8 +220,8 @@
         <mxCell id="5YV4q1YdHmRXvXtZF4WR-29" value="Contacts/Messages" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5YV4q1YdHmRXvXtZF4WR-30" value="All contacts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1350" width="140" height="70" as="geometry" />
+        <mxCell id="5YV4q1YdHmRXvXtZF4WR-30" value="view all contacts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5YV4q1YdHmRXvXtZF4WR-31" value="Last meetings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1240" width="140" height="70" as="geometry" />
