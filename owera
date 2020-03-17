@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-17T22:30:58.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ks6RxBxZfork2zkWIqQk" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-17T22:40:50.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="fWl_Eyjv35wvYerSnfS8" version="12.8.5" type="github">
   <diagram id="77EFI7Z8axzgrNOQ7Orh" name="Page-1">
     <mxGraphModel dx="2272" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="CkKtMJneWgWFMcWN5r1V-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-270" y="970" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CkKtMJneWgWFMcWN5r1V-4" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="1360" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CkKtMJneWgWFMcWN5r1V-7" value="Server" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="1660" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CkKtMJneWgWFMcWN5r1V-12" value="User 2" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="1850" width="30" height="60" as="geometry" />
